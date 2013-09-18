@@ -1,0 +1,6 @@
+INDEX VERSION 1.122+G:\04Semestre\PDW\Pratica\TrabalhoPDW\TrabalhoPDW\TrabalhoPDW\.metadata\.plugins\org.eclipse.wst.jsdt.core\indexes
+677824124.index
+2099801923.index
+4104522970.index
+2216706018.index
+3187577526.index
